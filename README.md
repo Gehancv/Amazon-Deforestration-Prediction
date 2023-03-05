@@ -1,2 +1,2 @@
 # Amazon-Deforestration-Prediction
-Predicting deforestation of amazon forests based on multiple influential factors.
+Predicting deforestation of amazon rainforest based on multiple influential factors.
