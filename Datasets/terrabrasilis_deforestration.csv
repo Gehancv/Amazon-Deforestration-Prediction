@@ -1,0 +1,812 @@
+year,area km²,uf,region
+2004,661.35,Mato Grosso do Sul,pantanal
+2003,661.35,Mato Grosso do Sul,pantanal
+2002,661.35,Mato Grosso do Sul,pantanal
+2001,661.35,Mato Grosso do Sul,pantanal
+2006,634.51,Mato Grosso do Sul,pantanal
+2005,634.51,Mato Grosso do Sul,pantanal
+2021,747.65,Mato Grosso do Sul,pantanal
+2017,482.43,Mato Grosso do Sul,pantanal
+2020,564.7,Mato Grosso do Sul,pantanal
+2010,505.39,Mato Grosso do Sul,pantanal
+2009,505.39,Mato Grosso do Sul,pantanal
+2015,399.35,Mato Grosso do Sul,pantanal
+2016,399.35,Mato Grosso do Sul,pantanal
+2007,371.52,Mato Grosso do Sul,pantanal
+2008,371.52,Mato Grosso do Sul,pantanal
+2019,395.32,Mato Grosso do Sul,pantanal
+2011,374.63,Mato Grosso do Sul,pantanal
+2018,304.39,Mato Grosso do Sul,pantanal
+2013,299.85,Mato Grosso do Sul,pantanal
+2012,299.85,Mato Grosso do Sul,pantanal
+2014,238.13,Mato Grosso do Sul,pantanal
+2004,338.71,Mato Grosso,pantanal
+2003,338.71,Mato Grosso,pantanal
+2002,338.71,Mato Grosso,pantanal
+2001,338.71,Mato Grosso,pantanal
+2006,211.45,Mato Grosso,pantanal
+2005,211.45,Mato Grosso,pantanal
+2021,76.82,Mato Grosso,pantanal
+2017,229.17,Mato Grosso,pantanal
+2020,113.16,Mato Grosso,pantanal
+2010,159.5,Mato Grosso,pantanal
+2009,159.5,Mato Grosso,pantanal
+2015,219.56,Mato Grosso,pantanal
+2016,219.56,Mato Grosso,pantanal
+2007,146.94,Mato Grosso,pantanal
+2008,146.94,Mato Grosso,pantanal
+2019,119.16,Mato Grosso,pantanal
+2011,135.76,Mato Grosso,pantanal
+2018,194.12,Mato Grosso,pantanal
+2013,129.98,Mato Grosso,pantanal
+2012,129.98,Mato Grosso,pantanal
+2014,131.6,Mato Grosso,pantanal
+2003,"3,094.82",Tocantins,cerrado
+2004,"3,094.82",Tocantins,cerrado
+2001,"2,929.05",Tocantins,cerrado
+2002,"2,929.05",Tocantins,cerrado
+2006,"2,641.07",Tocantins,cerrado
+2005,"2,641.07",Tocantins,cerrado
+2013,"2,880.87",Tocantins,cerrado
+2008,"1,829.64",Tocantins,cerrado
+2007,"1,829.64",Tocantins,cerrado
+2015,"3,081.68",Tocantins,cerrado
+2014,"2,271.68",Tocantins,cerrado
+2022,"2,127.33",Tocantins,cerrado
+2010,"1,834.26",Tocantins,cerrado
+2009,"1,834.26",Tocantins,cerrado
+2012,"1,749.29",Tocantins,cerrado
+2011,"1,749.29",Tocantins,cerrado
+2021,"1,711.30",Tocantins,cerrado
+2020,"1,584.37",Tocantins,cerrado
+2016,"1,637.81",Tocantins,cerrado
+2018,"1,587.00",Tocantins,cerrado
+2017,"1,721.67",Tocantins,cerrado
+2019,"1,533.36",Tocantins,cerrado
+2003,"6,207.45",Goiás,cerrado
+2004,"6,207.45",Goiás,cerrado
+2001,"6,670.84",Goiás,cerrado
+2002,"6,670.84",Goiás,cerrado
+2006,"2,479.59",Goiás,cerrado
+2005,"2,479.59",Goiás,cerrado
+2013,"1,530.90",Goiás,cerrado
+2008,"1,518.89",Goiás,cerrado
+2007,"1,518.89",Goiás,cerrado
+2015,"1,235.24",Goiás,cerrado
+2014,"1,201.54",Goiás,cerrado
+2022,984.79,Goiás,cerrado
+2010,"1,471.71",Goiás,cerrado
+2009,"1,471.71",Goiás,cerrado
+2012,990.19,Goiás,cerrado
+2011,990.19,Goiás,cerrado
+2021,920.39,Goiás,cerrado
+2020,733.56,Goiás,cerrado
+2016,671.67,Goiás,cerrado
+2018,742.47,Goiás,cerrado
+2017,862.92,Goiás,cerrado
+2019,668.24,Goiás,cerrado
+2003,"2,908.18",Maranhão,cerrado
+2004,"2,908.18",Maranhão,cerrado
+2001,"2,338.60",Maranhão,cerrado
+2002,"2,338.60",Maranhão,cerrado
+2006,"2,431.02",Maranhão,cerrado
+2005,"2,431.02",Maranhão,cerrado
+2013,"1,703.49",Maranhão,cerrado
+2008,"2,961.52",Maranhão,cerrado
+2007,"2,961.52",Maranhão,cerrado
+2015,"1,673.22",Maranhão,cerrado
+2014,"1,883.07",Maranhão,cerrado
+2022,"2,833.95",Maranhão,cerrado
+2010,"1,733.89",Maranhão,cerrado
+2009,"1,733.89",Maranhão,cerrado
+2012,"1,439.87",Maranhão,cerrado
+2011,"1,439.87",Maranhão,cerrado
+2021,"2,282.04",Maranhão,cerrado
+2020,"1,898.82",Maranhão,cerrado
+2016,"1,281.11",Maranhão,cerrado
+2018,"1,570.84",Maranhão,cerrado
+2017,"1,501.90",Maranhão,cerrado
+2019,"1,341.29",Maranhão,cerrado
+2003,"6,069.59",Mato Grosso,cerrado
+2004,"6,069.59",Mato Grosso,cerrado
+2001,"4,752.38",Mato Grosso,cerrado
+2002,"4,752.38",Mato Grosso,cerrado
+2006,"2,520.65",Mato Grosso,cerrado
+2005,"2,520.65",Mato Grosso,cerrado
+2013,"1,870.20",Mato Grosso,cerrado
+2008,"1,770.03",Mato Grosso,cerrado
+2007,"1,770.03",Mato Grosso,cerrado
+2015,"1,614.58",Mato Grosso,cerrado
+2014,"1,048.01",Mato Grosso,cerrado
+2022,742.44,Mato Grosso,cerrado
+2010,980.34,Mato Grosso,cerrado
+2009,980.34,Mato Grosso,cerrado
+2012,949.76,Mato Grosso,cerrado
+2011,949.76,Mato Grosso,cerrado
+2021,803.30,Mato Grosso,cerrado
+2020,770.11,Mato Grosso,cerrado
+2016,"1,272.07",Mato Grosso,cerrado
+2018,"1,049.09",Mato Grosso,cerrado
+2017,"1,028.65",Mato Grosso,cerrado
+2019,883.72,Mato Grosso,cerrado
+2003,"4,132.71",Minas Gerais,cerrado
+2004,"4,132.71",Minas Gerais,cerrado
+2001,"5,179.76",Minas Gerais,cerrado
+2002,"5,179.76",Minas Gerais,cerrado
+2006,"2,460.62",Minas Gerais,cerrado
+2005,"2,460.62",Minas Gerais,cerrado
+2013,"1,872.95",Minas Gerais,cerrado
+2008,"1,993.07",Minas Gerais,cerrado
+2007,"1,993.07",Minas Gerais,cerrado
+2015,"1,054.28",Minas Gerais,cerrado
+2014,"1,819.15",Minas Gerais,cerrado
+2022,802.73,Minas Gerais,cerrado
+2010,"1,259.52",Minas Gerais,cerrado
+2009,"1,259.52",Minas Gerais,cerrado
+2012,"1,290.79",Minas Gerais,cerrado
+2011,"1,290.79",Minas Gerais,cerrado
+2021,802.73,Minas Gerais,cerrado
+2020,621.70,Minas Gerais,cerrado
+2016,352.09,Minas Gerais,cerrado
+2018,475.90,Minas Gerais,cerrado
+2017,498.74,Minas Gerais,cerrado
+2019,476.11,Minas Gerais,cerrado
+2003,"2,035.97",Bahia,cerrado
+2004,"2,035.97",Bahia,cerrado
+2001,"1,207.60",Bahia,cerrado
+2002,"1,207.60",Bahia,cerrado
+2006,"1,235.81",Bahia,cerrado
+2005,"1,235.81",Bahia,cerrado
+2013,"1,048.51",Bahia,cerrado
+2008,"1,474.18",Bahia,cerrado
+2007,"1,474.18",Bahia,cerrado
+2015,"1,080.75",Bahia,cerrado
+2014,860.22,Bahia,cerrado
+2022,"1,427.89",Bahia,cerrado
+2010,891.00,Bahia,cerrado
+2009,891.00,Bahia,cerrado
+2012,"1,281.93",Bahia,cerrado
+2011,"1,281.93",Bahia,cerrado
+2021,923.96,Bahia,cerrado
+2020,769.31,Bahia,cerrado
+2016,649.35,Bahia,cerrado
+2018,598.17,Bahia,cerrado
+2017,658.71,Bahia,cerrado
+2019,714.89,Bahia,cerrado
+2003,"1,645.95",Piauí,cerrado
+2004,"1,645.95",Piauí,cerrado
+2001,866.36,Piauí,cerrado
+2002,866.36,Piauí,cerrado
+2006,"1,329.68",Piauí,cerrado
+2005,"1,329.68",Piauí,cerrado
+2013,"1,879.26",Piauí,cerrado
+2008,863.66,Piauí,cerrado
+2007,863.66,Piauí,cerrado
+2015,778.73,Piauí,cerrado
+2014,"1,287.78",Piauí,cerrado
+2022,"1,188.76",Piauí,cerrado
+2010,"1,128.83",Piauí,cerrado
+2009,"1,128.83",Piauí,cerrado
+2012,902.10,Piauí,cerrado
+2011,902.10,Piauí,cerrado
+2021,583.77,Piauí,cerrado
+2020,879.80,Piauí,cerrado
+2016,965.97,Piauí,cerrado
+2018,743.92,Piauí,cerrado
+2017,566.56,Piauí,cerrado
+2019,425.62,Piauí,cerrado
+2003,"2,299.69",Mato Grosso do Sul,cerrado
+2004,"2,299.69",Mato Grosso do Sul,cerrado
+2001,"2,713.79",Mato Grosso do Sul,cerrado
+2002,"2,713.79",Mato Grosso do Sul,cerrado
+2006,"1,509.81",Mato Grosso do Sul,cerrado
+2005,"1,509.81",Mato Grosso do Sul,cerrado
+2013,480.23,Mato Grosso do Sul,cerrado
+2008,770.39,Mato Grosso do Sul,cerrado
+2007,770.39,Mato Grosso do Sul,cerrado
+2015,586.62,Mato Grosso do Sul,cerrado
+2014,272.53,Mato Grosso do Sul,cerrado
+2022,315.02,Mato Grosso do Sul,cerrado
+2010,478.22,Mato Grosso do Sul,cerrado
+2009,478.22,Mato Grosso do Sul,cerrado
+2012,351.96,Mato Grosso do Sul,cerrado
+2011,351.96,Mato Grosso do Sul,cerrado
+2021,287.65,Mato Grosso do Sul,cerrado
+2020,299.34,Mato Grosso do Sul,cerrado
+2016,319.67,Mato Grosso do Sul,cerrado
+2018,258.67,Mato Grosso do Sul,cerrado
+2017,265.02,Mato Grosso do Sul,cerrado
+2019,256.39,Mato Grosso do Sul,cerrado
+2003,116.90,Pará,cerrado
+2004,116.90,Pará,cerrado
+2001,131.13,Pará,cerrado
+2002,131.13,Pará,cerrado
+2006,115.31,Pará,cerrado
+2005,115.31,Pará,cerrado
+2013,169.61,Pará,cerrado
+2008,77.21,Pará,cerrado
+2007,77.21,Pará,cerrado
+2015,0.83,Pará,cerrado
+2014,190.45,Pará,cerrado
+2022,243.66,Pará,cerrado
+2010,55.81,Pará,cerrado
+2009,55.81,Pará,cerrado
+2012,0.83,Pará,cerrado
+2011,0.83,Pará,cerrado
+2021,192.18,Pará,cerrado
+2020,312.58,Pará,cerrado
+2016,293.20,Pará,cerrado
+2018,198.09,Pará,cerrado
+2017,2.05,Pará,cerrado
+2019,4.26,Pará,cerrado
+2003,103.24,São Paulo,cerrado
+2004,103.24,São Paulo,cerrado
+2001,95.65,São Paulo,cerrado
+2002,95.65,São Paulo,cerrado
+2006,93.36,São Paulo,cerrado
+2005,93.36,São Paulo,cerrado
+2013,23.77,São Paulo,cerrado
+2008,28.97,São Paulo,cerrado
+2007,28.97,São Paulo,cerrado
+2015,9.66,São Paulo,cerrado
+2014,24.63,São Paulo,cerrado
+2022,3.84,São Paulo,cerrado
+2010,38.91,São Paulo,cerrado
+2009,38.91,São Paulo,cerrado
+2012,10.80,São Paulo,cerrado
+2011,10.80,São Paulo,cerrado
+2021,1.28,São Paulo,cerrado
+2020,5.57,São Paulo,cerrado
+2016,2.08,São Paulo,cerrado
+2018,9.15,São Paulo,cerrado
+2017,1.71,São Paulo,cerrado
+2019,3.74,São Paulo,cerrado
+2003,82.43,Distrito Federal,cerrado
+2004,82.43,Distrito Federal,cerrado
+2001,12.78,Distrito Federal,cerrado
+2002,12.78,Distrito Federal,cerrado
+2006,27.48,Distrito Federal,cerrado
+2005,27.48,Distrito Federal,cerrado
+2013,11.16,Distrito Federal,cerrado
+2008,10.61,Distrito Federal,cerrado
+2007,10.61,Distrito Federal,cerrado
+2015,5.36,Distrito Federal,cerrado
+2014,20.37,Distrito Federal,cerrado
+2022,5.56,Distrito Federal,cerrado
+2010,12.39,Distrito Federal,cerrado
+2009,12.39,Distrito Federal,cerrado
+2012,6.52,Distrito Federal,cerrado
+2011,6.52,Distrito Federal,cerrado
+2021,4.57,Distrito Federal,cerrado
+2020,4.78,Distrito Federal,cerrado
+2016,2.56,Distrito Federal,cerrado
+2018,8.18,Distrito Federal,cerrado
+2017,5.62,Distrito Federal,cerrado
+2019,2.66,Distrito Federal,cerrado
+2003,55.22,Rondônia,cerrado
+2004,55.22,Rondônia,cerrado
+2001,6.79,Rondônia,cerrado
+2002,6.79,Rondônia,cerrado
+2006,15.05,Rondônia,cerrado
+2005,15.05,Rondônia,cerrado
+2013,7.29,Rondônia,cerrado
+2008,12.38,Rondônia,cerrado
+2007,12.38,Rondônia,cerrado
+2015,2.17,Rondônia,cerrado
+2014,17.45,Rondônia,cerrado
+2022,12.58,Rondônia,cerrado
+2010,5.48,Rondônia,cerrado
+2009,5.48,Rondônia,cerrado
+2012,0.41,Rondônia,cerrado
+2011,0.41,Rondônia,cerrado
+2021,18.21,Rondônia,cerrado
+2020,23.53,Rondônia,cerrado
+2016,45.21,Rondônia,cerrado
+2018,17.59,Rondônia,cerrado
+2017,1.28,Rondônia,cerrado
+2019,8.32,Rondônia,cerrado
+2003,14.66,Paraná,cerrado
+2004,14.66,Paraná,cerrado
+2001,28.29,Paraná,cerrado
+2002,28.29,Paraná,cerrado
+2006,19.32,Paraná,cerrado
+2005,19.32,Paraná,cerrado
+2013,3.36,Paraná,cerrado
+2008,3.19,Paraná,cerrado
+2007,3.19,Paraná,cerrado
+2015,5.93,Paraná,cerrado
+2014,7.53,Paraná,cerrado
+2022,0.18,Paraná,cerrado
+2010,20.01,Paraná,cerrado
+2009,20.01,Paraná,cerrado
+2012,1.74,Paraná,cerrado
+2011,1.74,Paraná,cerrado
+2021,0.07,Paraná,cerrado
+2020,1.70,Paraná,cerrado
+2016,4.34,Paraná,cerrado
+2018,0.76,Paraná,cerrado
+2017,2.55,Paraná,cerrado
+2019,0.44,Paraná,cerrado
+2003,"4,137.47",Bahia,caatinga
+2002,"4,137.47",Bahia,caatinga
+2001,"4,137.47",Bahia,caatinga
+2004,"4,137.47",Bahia,caatinga
+2006,"2,665.15",Bahia,caatinga
+2005,"2,665.15",Bahia,caatinga
+2007,"2,301.55",Bahia,caatinga
+2008,"2,301.55",Bahia,caatinga
+2011,"1,695.76",Bahia,caatinga
+2013,"1,450.98",Bahia,caatinga
+2012,"1,450.98",Bahia,caatinga
+2010,"1,158.63",Bahia,caatinga
+2009,"1,158.63",Bahia,caatinga
+2014,"1,301.03",Bahia,caatinga
+2015,899.70,Bahia,caatinga
+2016,899.70,Bahia,caatinga
+2017,799.28,Bahia,caatinga
+2020,744.92,Bahia,caatinga
+2018,661.68,Bahia,caatinga
+2021,743.68,Bahia,caatinga
+2019,683.32,Bahia,caatinga
+2003,"2,739.81",Ceará,caatinga
+2002,"2,739.81",Ceará,caatinga
+2001,"2,739.81",Ceará,caatinga
+2004,"2,739.81",Ceará,caatinga
+2006,"1,914.30",Ceará,caatinga
+2005,"1,914.30",Ceará,caatinga
+2007,"1,511.24",Ceará,caatinga
+2008,"1,511.24",Ceará,caatinga
+2011,923.90,Ceará,caatinga
+2013,893.18,Ceará,caatinga
+2012,893.18,Ceará,caatinga
+2010,"1,099.27",Ceará,caatinga
+2009,"1,099.27",Ceará,caatinga
+2014,828.98,Ceará,caatinga
+2015,642.03,Ceará,caatinga
+2016,642.03,Ceará,caatinga
+2017,609.45,Ceará,caatinga
+2020,583.76,Ceará,caatinga
+2018,559.16,Ceará,caatinga
+2021,509.01,Ceará,caatinga
+2019,501.06,Ceará,caatinga
+2003,"1,114.58",Pernambuco,caatinga
+2002,"1,114.58",Pernambuco,caatinga
+2001,"1,114.58",Pernambuco,caatinga
+2004,"1,114.58",Pernambuco,caatinga
+2006,566.10,Pernambuco,caatinga
+2005,566.10,Pernambuco,caatinga
+2007,764.86,Pernambuco,caatinga
+2008,764.86,Pernambuco,caatinga
+2011,506.58,Pernambuco,caatinga
+2013,395.29,Pernambuco,caatinga
+2012,395.29,Pernambuco,caatinga
+2010,407.51,Pernambuco,caatinga
+2009,407.51,Pernambuco,caatinga
+2014,328.10,Pernambuco,caatinga
+2015,193.08,Pernambuco,caatinga
+2016,193.08,Pernambuco,caatinga
+2017,201.32,Pernambuco,caatinga
+2020,214.33,Pernambuco,caatinga
+2018,235.32,Pernambuco,caatinga
+2021,239.45,Pernambuco,caatinga
+2019,169.03,Pernambuco,caatinga
+2003,941.07,Paraíba,caatinga
+2002,941.07,Paraíba,caatinga
+2001,941.07,Paraíba,caatinga
+2004,941.07,Paraíba,caatinga
+2006,863.56,Paraíba,caatinga
+2005,863.56,Paraíba,caatinga
+2007,412.83,Paraíba,caatinga
+2008,412.83,Paraíba,caatinga
+2011,294.91,Paraíba,caatinga
+2013,222.97,Paraíba,caatinga
+2012,222.97,Paraíba,caatinga
+2010,275.08,Paraíba,caatinga
+2009,275.08,Paraíba,caatinga
+2014,307.77,Paraíba,caatinga
+2015,148.86,Paraíba,caatinga
+2016,148.86,Paraíba,caatinga
+2017,107.03,Paraíba,caatinga
+2020,152.54,Paraíba,caatinga
+2018,191.89,Paraíba,caatinga
+2021,133.23,Paraíba,caatinga
+2019,88.10,Paraíba,caatinga
+2003,771.93,Piauí,caatinga
+2002,771.93,Piauí,caatinga
+2001,771.93,Piauí,caatinga
+2004,771.93,Piauí,caatinga
+2006,552.90,Piauí,caatinga
+2005,552.90,Piauí,caatinga
+2007,536.18,Piauí,caatinga
+2008,536.18,Piauí,caatinga
+2011,209.56,Piauí,caatinga
+2013,345.70,Piauí,caatinga
+2012,345.70,Piauí,caatinga
+2010,450.95,Piauí,caatinga
+2009,450.95,Piauí,caatinga
+2014,352.29,Piauí,caatinga
+2015,202.46,Piauí,caatinga
+2016,202.46,Piauí,caatinga
+2017,169.86,Piauí,caatinga
+2020,201.16,Piauí,caatinga
+2018,226.07,Piauí,caatinga
+2021,162.00,Piauí,caatinga
+2019,188.40,Piauí,caatinga
+2003,936.99,Rio Grande do Norte,caatinga
+2002,936.99,Rio Grande do Norte,caatinga
+2001,936.99,Rio Grande do Norte,caatinga
+2004,936.99,Rio Grande do Norte,caatinga
+2006,665.85,Rio Grande do Norte,caatinga
+2005,665.85,Rio Grande do Norte,caatinga
+2007,420.55,Rio Grande do Norte,caatinga
+2008,420.55,Rio Grande do Norte,caatinga
+2011,282.92,Rio Grande do Norte,caatinga
+2013,156.73,Rio Grande do Norte,caatinga
+2012,156.73,Rio Grande do Norte,caatinga
+2010,301.94,Rio Grande do Norte,caatinga
+2009,301.94,Rio Grande do Norte,caatinga
+2014,211.50,Rio Grande do Norte,caatinga
+2015,190.96,Rio Grande do Norte,caatinga
+2016,190.96,Rio Grande do Norte,caatinga
+2017,167.89,Rio Grande do Norte,caatinga
+2020,160.60,Rio Grande do Norte,caatinga
+2018,160.03,Rio Grande do Norte,caatinga
+2021,191.34,Rio Grande do Norte,caatinga
+2019,115.60,Rio Grande do Norte,caatinga
+2003,"1,041.68",Minas Gerais,caatinga
+2002,"1,041.68",Minas Gerais,caatinga
+2001,"1,041.68",Minas Gerais,caatinga
+2004,"1,041.68",Minas Gerais,caatinga
+2006,400.54,Minas Gerais,caatinga
+2005,400.54,Minas Gerais,caatinga
+2007,240.68,Minas Gerais,caatinga
+2008,240.68,Minas Gerais,caatinga
+2011,68.27,Minas Gerais,caatinga
+2013,327.11,Minas Gerais,caatinga
+2012,327.11,Minas Gerais,caatinga
+2010,155.35,Minas Gerais,caatinga
+2009,155.35,Minas Gerais,caatinga
+2014,200.92,Minas Gerais,caatinga
+2015,119.55,Minas Gerais,caatinga
+2016,119.55,Minas Gerais,caatinga
+2017,59.13,Minas Gerais,caatinga
+2020,101.51,Minas Gerais,caatinga
+2018,66.77,Minas Gerais,caatinga
+2021,86.30,Minas Gerais,caatinga
+2019,83.86,Minas Gerais,caatinga
+2003,256.74,Sergipe,caatinga
+2002,256.74,Sergipe,caatinga
+2001,256.74,Sergipe,caatinga
+2004,256.74,Sergipe,caatinga
+2006,320.90,Sergipe,caatinga
+2005,320.90,Sergipe,caatinga
+2007,88.70,Sergipe,caatinga
+2008,88.70,Sergipe,caatinga
+2011,47.64,Sergipe,caatinga
+2013,78.16,Sergipe,caatinga
+2012,78.16,Sergipe,caatinga
+2010,48.26,Sergipe,caatinga
+2009,48.26,Sergipe,caatinga
+2014,37.93,Sergipe,caatinga
+2015,14.39,Sergipe,caatinga
+2016,14.39,Sergipe,caatinga
+2017,79.21,Sergipe,caatinga
+2020,48.70,Sergipe,caatinga
+2018,38.03,Sergipe,caatinga
+2021,13.25,Sergipe,caatinga
+2019,17.73,Sergipe,caatinga
+2003,246.14,Alagoas,caatinga
+2002,246.14,Alagoas,caatinga
+2001,246.14,Alagoas,caatinga
+2004,246.14,Alagoas,caatinga
+2006,223.30,Alagoas,caatinga
+2005,223.30,Alagoas,caatinga
+2007,74.87,Alagoas,caatinga
+2008,74.87,Alagoas,caatinga
+2011,29.90,Alagoas,caatinga
+2013,77.43,Alagoas,caatinga
+2012,77.43,Alagoas,caatinga
+2010,46.08,Alagoas,caatinga
+2009,46.08,Alagoas,caatinga
+2014,33.64,Alagoas,caatinga
+2015,21.85,Alagoas,caatinga
+2016,21.85,Alagoas,caatinga
+2017,53.00,Alagoas,caatinga
+2020,18.52,Alagoas,caatinga
+2018,30.60,Alagoas,caatinga
+2021,17.89,Alagoas,caatinga
+2019,21.08,Alagoas,caatinga
+2006,"1.183,51",Minas Gerais,mata_atlantica
+2005,"1.183,51",Minas Gerais,mata_atlantica
+2003,"1.075,59",Minas Gerais,mata_atlantica
+2001,"1.075,59",Minas Gerais,mata_atlantica
+2002,"1.075,59",Minas Gerais,mata_atlantica
+2004,"1.075,59",Minas Gerais,mata_atlantica
+2007,"1.157,45",Minas Gerais,mata_atlantica
+2008,"1.157,45",Minas Gerais,mata_atlantica
+2010,"443,78",Minas Gerais,mata_atlantica
+2009,"443,78",Minas Gerais,mata_atlantica
+2014,"496,46",Minas Gerais,mata_atlantica
+2011,"497,59",Minas Gerais,mata_atlantica
+2013,"418,25",Minas Gerais,mata_atlantica
+2012,"418,25",Minas Gerais,mata_atlantica
+2018,"490,63",Minas Gerais,mata_atlantica
+2015,"348,86",Minas Gerais,mata_atlantica
+2016,"348,86",Minas Gerais,mata_atlantica
+2017,"195,09",Minas Gerais,mata_atlantica
+2019,"294,10",Minas Gerais,mata_atlantica
+2021,"250,98",Minas Gerais,mata_atlantica
+2020,"227,50",Minas Gerais,mata_atlantica
+2006,"1.302,55",Bahia,mata_atlantica
+2005,"1.302,55",Bahia,mata_atlantica
+2003,"1.531,83",Bahia,mata_atlantica
+2001,"1.531,83",Bahia,mata_atlantica
+2002,"1.531,83",Bahia,mata_atlantica
+2004,"1.531,83",Bahia,mata_atlantica
+2007,"897,36",Bahia,mata_atlantica
+2008,"897,36",Bahia,mata_atlantica
+2010,"291,14",Bahia,mata_atlantica
+2009,"291,14",Bahia,mata_atlantica
+2014,"271,67",Bahia,mata_atlantica
+2011,"329,88",Bahia,mata_atlantica
+2013,"232,18",Bahia,mata_atlantica
+2012,"232,18",Bahia,mata_atlantica
+2018,"178,74",Bahia,mata_atlantica
+2015,"219,72",Bahia,mata_atlantica
+2016,"219,72",Bahia,mata_atlantica
+2017,"143,01",Bahia,mata_atlantica
+2019,"273,06",Bahia,mata_atlantica
+2021,"124,83",Bahia,mata_atlantica
+2020,"113,19",Bahia,mata_atlantica
+2006,"387,98",Rio Grande do Sul,mata_atlantica
+2005,"387,98",Rio Grande do Sul,mata_atlantica
+2003,"529,30",Rio Grande do Sul,mata_atlantica
+2001,"529,30",Rio Grande do Sul,mata_atlantica
+2002,"529,30",Rio Grande do Sul,mata_atlantica
+2004,"529,30",Rio Grande do Sul,mata_atlantica
+2007,"502,09",Rio Grande do Sul,mata_atlantica
+2008,"502,09",Rio Grande do Sul,mata_atlantica
+2010,"241,83",Rio Grande do Sul,mata_atlantica
+2009,"241,83",Rio Grande do Sul,mata_atlantica
+2014,"357,00",Rio Grande do Sul,mata_atlantica
+2011,"318,68",Rio Grande do Sul,mata_atlantica
+2013,"224,97",Rio Grande do Sul,mata_atlantica
+2012,"224,97",Rio Grande do Sul,mata_atlantica
+2018,"164,79",Rio Grande do Sul,mata_atlantica
+2015,"165,81",Rio Grande do Sul,mata_atlantica
+2016,"165,81",Rio Grande do Sul,mata_atlantica
+2017,"315,36",Rio Grande do Sul,mata_atlantica
+2019,"118,49",Rio Grande do Sul,mata_atlantica
+2021,"224,53",Rio Grande do Sul,mata_atlantica
+2020,"151,32",Rio Grande do Sul,mata_atlantica
+2006,"716,70",Santa Catarina,mata_atlantica
+2005,"716,70",Santa Catarina,mata_atlantica
+2003,"476,66",Santa Catarina,mata_atlantica
+2001,"476,66",Santa Catarina,mata_atlantica
+2002,"476,66",Santa Catarina,mata_atlantica
+2004,"476,66",Santa Catarina,mata_atlantica
+2007,"448,73",Santa Catarina,mata_atlantica
+2008,"448,73",Santa Catarina,mata_atlantica
+2010,"359,02",Santa Catarina,mata_atlantica
+2009,"359,02",Santa Catarina,mata_atlantica
+2014,"225,02",Santa Catarina,mata_atlantica
+2011,"184,06",Santa Catarina,mata_atlantica
+2013,"127,08",Santa Catarina,mata_atlantica
+2012,"127,08",Santa Catarina,mata_atlantica
+2018,"166,76",Santa Catarina,mata_atlantica
+2015,"128,56",Santa Catarina,mata_atlantica
+2016,"128,56",Santa Catarina,mata_atlantica
+2017,"177,49",Santa Catarina,mata_atlantica
+2019,"129,51",Santa Catarina,mata_atlantica
+2021,"90,01",Santa Catarina,mata_atlantica
+2020,"73,05",Santa Catarina,mata_atlantica
+2006,"698,62",Paraná,mata_atlantica
+2005,"698,62",Paraná,mata_atlantica
+2003,"600,06",Paraná,mata_atlantica
+2001,"600,06",Paraná,mata_atlantica
+2002,"600,06",Paraná,mata_atlantica
+2004,"600,06",Paraná,mata_atlantica
+2007,"310,11",Paraná,mata_atlantica
+2008,"310,11",Paraná,mata_atlantica
+2010,"220,44",Paraná,mata_atlantica
+2009,"220,44",Paraná,mata_atlantica
+2014,"166,71",Paraná,mata_atlantica
+2011,"210,24",Paraná,mata_atlantica
+2013,"145,82",Paraná,mata_atlantica
+2012,"145,82",Paraná,mata_atlantica
+2018,"148,09",Paraná,mata_atlantica
+2015,"143,73",Paraná,mata_atlantica
+2016,"143,73",Paraná,mata_atlantica
+2017,"131,59",Paraná,mata_atlantica
+2019,"122,67",Paraná,mata_atlantica
+2021,"124,43",Paraná,mata_atlantica
+2020,"70,40",Paraná,mata_atlantica
+2006,"626,28",Pernambuco,mata_atlantica
+2005,"626,28",Pernambuco,mata_atlantica
+2003,"275,83",Pernambuco,mata_atlantica
+2001,"275,83",Pernambuco,mata_atlantica
+2002,"275,83",Pernambuco,mata_atlantica
+2004,"275,83",Pernambuco,mata_atlantica
+2007,"178,18",Pernambuco,mata_atlantica
+2008,"178,18",Pernambuco,mata_atlantica
+2010,"105,36",Pernambuco,mata_atlantica
+2009,"105,36",Pernambuco,mata_atlantica
+2014,"153,27",Pernambuco,mata_atlantica
+2011,"96,00",Pernambuco,mata_atlantica
+2013,"62,37",Pernambuco,mata_atlantica
+2012,"62,37",Pernambuco,mata_atlantica
+2018,"56,51",Pernambuco,mata_atlantica
+2015,"54,44",Pernambuco,mata_atlantica
+2016,"54,44",Pernambuco,mata_atlantica
+2017,"58,45",Pernambuco,mata_atlantica
+2019,"32,16",Pernambuco,mata_atlantica
+2021,"17,19",Pernambuco,mata_atlantica
+2020,"24,24",Pernambuco,mata_atlantica
+2006,"347,83",São Paulo,mata_atlantica
+2005,"347,83",São Paulo,mata_atlantica
+2003,"295,33",São Paulo,mata_atlantica
+2001,"295,33",São Paulo,mata_atlantica
+2002,"295,33",São Paulo,mata_atlantica
+2004,"295,33",São Paulo,mata_atlantica
+2007,"98,71",São Paulo,mata_atlantica
+2008,"98,71",São Paulo,mata_atlantica
+2010,"120,16",São Paulo,mata_atlantica
+2009,"120,16",São Paulo,mata_atlantica
+2014,"75,37",São Paulo,mata_atlantica
+2011,"55,11",São Paulo,mata_atlantica
+2013,"52,49",São Paulo,mata_atlantica
+2012,"52,49",São Paulo,mata_atlantica
+2018,"40,00",São Paulo,mata_atlantica
+2015,"27,78",São Paulo,mata_atlantica
+2016,"27,78",São Paulo,mata_atlantica
+2017,"63,86",São Paulo,mata_atlantica
+2019,"25,38",São Paulo,mata_atlantica
+2021,"22,84",São Paulo,mata_atlantica
+2020,"30,70",São Paulo,mata_atlantica
+2006,"383,00",Alagoas,mata_atlantica
+2005,"383,00",Alagoas,mata_atlantica
+2003,"236,35",Alagoas,mata_atlantica
+2001,"236,35",Alagoas,mata_atlantica
+2002,"236,35",Alagoas,mata_atlantica
+2004,"236,35",Alagoas,mata_atlantica
+2007,"101,72",Alagoas,mata_atlantica
+2008,"101,72",Alagoas,mata_atlantica
+2010,"70,09",Alagoas,mata_atlantica
+2009,"70,09",Alagoas,mata_atlantica
+2014,"42,04",Alagoas,mata_atlantica
+2011,"39,80",Alagoas,mata_atlantica
+2013,"29,08",Alagoas,mata_atlantica
+2012,"29,08",Alagoas,mata_atlantica
+2018,"8,43",Alagoas,mata_atlantica
+2015,"22,96",Alagoas,mata_atlantica
+2016,"22,96",Alagoas,mata_atlantica
+2017,"18,17",Alagoas,mata_atlantica
+2019,"7,67",Alagoas,mata_atlantica
+2021,"6,86",Alagoas,mata_atlantica
+2020,"17,43",Alagoas,mata_atlantica
+2006,"105,24",Espírito Santo,mata_atlantica
+2005,"105,24",Espírito Santo,mata_atlantica
+2003,"270,23",Espírito Santo,mata_atlantica
+2001,"270,23",Espírito Santo,mata_atlantica
+2002,"270,23",Espírito Santo,mata_atlantica
+2004,"270,23",Espírito Santo,mata_atlantica
+2007,"116,33",Espírito Santo,mata_atlantica
+2008,"116,33",Espírito Santo,mata_atlantica
+2010,"24,86",Espírito Santo,mata_atlantica
+2009,"24,86",Espírito Santo,mata_atlantica
+2014,"29,72",Espírito Santo,mata_atlantica
+2011,"27,13",Espírito Santo,mata_atlantica
+2013,"24,72",Espírito Santo,mata_atlantica
+2012,"24,72",Espírito Santo,mata_atlantica
+2018,"16,13",Espírito Santo,mata_atlantica
+2015,"26,13",Espírito Santo,mata_atlantica
+2016,"26,13",Espírito Santo,mata_atlantica
+2017,"10,06",Espírito Santo,mata_atlantica
+2019,"40,19",Espírito Santo,mata_atlantica
+2021,"29,30",Espírito Santo,mata_atlantica
+2020,"19,97",Espírito Santo,mata_atlantica
+2006,"309,48",Sergipe,mata_atlantica
+2005,"309,48",Sergipe,mata_atlantica
+2003,"127,40",Sergipe,mata_atlantica
+2001,"127,40",Sergipe,mata_atlantica
+2002,"127,40",Sergipe,mata_atlantica
+2004,"127,40",Sergipe,mata_atlantica
+2007,"88,38",Sergipe,mata_atlantica
+2008,"88,38",Sergipe,mata_atlantica
+2010,"54,43",Sergipe,mata_atlantica
+2009,"54,43",Sergipe,mata_atlantica
+2014,"29,82",Sergipe,mata_atlantica
+2011,"67,08",Sergipe,mata_atlantica
+2013,"56,97",Sergipe,mata_atlantica
+2012,"56,97",Sergipe,mata_atlantica
+2018,"22,40",Sergipe,mata_atlantica
+2015,"32,80",Sergipe,mata_atlantica
+2016,"32,80",Sergipe,mata_atlantica
+2017,"11,23",Sergipe,mata_atlantica
+2019,"6,74",Sergipe,mata_atlantica
+2021,"5,40",Sergipe,mata_atlantica
+2020,"34,28",Sergipe,mata_atlantica
+2006,"162,24",Paraíba,mata_atlantica
+2005,"162,24",Paraíba,mata_atlantica
+2003,"56,89",Paraíba,mata_atlantica
+2001,"56,89",Paraíba,mata_atlantica
+2002,"56,89",Paraíba,mata_atlantica
+2004,"56,89",Paraíba,mata_atlantica
+2007,"30,13",Paraíba,mata_atlantica
+2008,"30,13",Paraíba,mata_atlantica
+2010,"26,93",Paraíba,mata_atlantica
+2009,"26,93",Paraíba,mata_atlantica
+2014,"5,26",Paraíba,mata_atlantica
+2011,"16,74",Paraíba,mata_atlantica
+2013,"7,29",Paraíba,mata_atlantica
+2012,"7,29",Paraíba,mata_atlantica
+2018,"18,02",Paraíba,mata_atlantica
+2015,"12,70",Paraíba,mata_atlantica
+2016,"12,70",Paraíba,mata_atlantica
+2017,"10,21",Paraíba,mata_atlantica
+2019,"0,90",Paraíba,mata_atlantica
+2021,"3,95",Paraíba,mata_atlantica
+2020,"2,07",Paraíba,mata_atlantica
+2006,"49,17",Mato Grosso do Sul,mata_atlantica
+2005,"49,17",Mato Grosso do Sul,mata_atlantica
+2003,"68,50",Mato Grosso do Sul,mata_atlantica
+2001,"68,50",Mato Grosso do Sul,mata_atlantica
+2002,"68,50",Mato Grosso do Sul,mata_atlantica
+2004,"68,50",Mato Grosso do Sul,mata_atlantica
+2007,"30,55",Mato Grosso do Sul,mata_atlantica
+2008,"30,55",Mato Grosso do Sul,mata_atlantica
+2010,"14,47",Mato Grosso do Sul,mata_atlantica
+2009,"14,47",Mato Grosso do Sul,mata_atlantica
+2014,"10,90",Mato Grosso do Sul,mata_atlantica
+2011,"14,64",Mato Grosso do Sul,mata_atlantica
+2013,"10,70",Mato Grosso do Sul,mata_atlantica
+2012,"10,70",Mato Grosso do Sul,mata_atlantica
+2018,"14,39",Mato Grosso do Sul,mata_atlantica
+2015,"8,82",Mato Grosso do Sul,mata_atlantica
+2016,"8,82",Mato Grosso do Sul,mata_atlantica
+2017,"8,32",Mato Grosso do Sul,mata_atlantica
+2019,"7,40",Mato Grosso do Sul,mata_atlantica
+2021,"16,63",Mato Grosso do Sul,mata_atlantica
+2020,"14,85",Mato Grosso do Sul,mata_atlantica
+2006,"61,74",Rio de Janeiro,mata_atlantica
+2005,"61,74",Rio de Janeiro,mata_atlantica
+2003,"33,52",Rio de Janeiro,mata_atlantica
+2001,"33,52",Rio de Janeiro,mata_atlantica
+2002,"33,52",Rio de Janeiro,mata_atlantica
+2004,"33,52",Rio de Janeiro,mata_atlantica
+2007,"25,90",Rio de Janeiro,mata_atlantica
+2008,"25,90",Rio de Janeiro,mata_atlantica
+2010,"29,29",Rio de Janeiro,mata_atlantica
+2009,"29,29",Rio de Janeiro,mata_atlantica
+2014,"19,86",Rio de Janeiro,mata_atlantica
+2011,"14,73",Rio de Janeiro,mata_atlantica
+2013,"29,50",Rio de Janeiro,mata_atlantica
+2012,"29,50",Rio de Janeiro,mata_atlantica
+2018,"14,13",Rio de Janeiro,mata_atlantica
+2015,"12,25",Rio de Janeiro,mata_atlantica
+2016,"12,25",Rio de Janeiro,mata_atlantica
+2017,"19,83",Rio de Janeiro,mata_atlantica
+2019,"7,54",Rio de Janeiro,mata_atlantica
+2021,"7,67",Rio de Janeiro,mata_atlantica
+2020,"9,23",Rio de Janeiro,mata_atlantica
+2001,"2,866.00",Rio Grande do Sul,pampa
+2004,"2,866.00",Rio Grande do Sul,pampa
+2003,"2,866.00",Rio Grande do Sul,pampa
+2002,"2,866.00",Rio Grande do Sul,pampa
+2014,"2,118.72",Rio Grande do Sul,pampa
+2006,"2,004.36",Rio Grande do Sul,pampa
+2005,"2,004.36",Rio Grande do Sul,pampa
+2011,"1,699.81",Rio Grande do Sul,pampa
+2021,"1,526.57",Rio Grande do Sul,pampa
+2007,"1,449.72",Rio Grande do Sul,pampa
+2008,"1,449.72",Rio Grande do Sul,pampa
+2013,"1,125.97",Rio Grande do Sul,pampa
+2012,"1,125.97",Rio Grande do Sul,pampa
+2010,"1,027.92",Rio Grande do Sul,pampa
+2009,"1,027.92",Rio Grande do Sul,pampa
+2019,"1,027.40",Rio Grande do Sul,pampa
+2017,925.88,Rio Grande do Sul,pampa
+2015,924.38,Rio Grande do Sul,pampa
+2016,924.38,Rio Grande do Sul,pampa
+2018,917.77,Rio Grande do Sul,pampa
+2020,888.62,Rio Grande do Sul,pampa
