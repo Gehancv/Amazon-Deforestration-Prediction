@@ -1,4 +1,4 @@
-year,area km²,uf,region
+year,areakm,state,region
 2004,661.35,Mato Grosso do Sul,pantanal
 2003,661.35,Mato Grosso do Sul,pantanal
 2002,661.35,Mato Grosso do Sul,pantanal
@@ -123,7 +123,7 @@ year,area km²,uf,region
 2009,980.34,Mato Grosso,cerrado
 2012,949.76,Mato Grosso,cerrado
 2011,949.76,Mato Grosso,cerrado
-2021,803.30,Mato Grosso,cerrado
+2021,803.3,Mato Grosso,cerrado
 2020,770.11,Mato Grosso,cerrado
 2016,"1,272.07",Mato Grosso,cerrado
 2018,"1,049.09",Mato Grosso,cerrado
@@ -146,9 +146,9 @@ year,area km²,uf,region
 2012,"1,290.79",Minas Gerais,cerrado
 2011,"1,290.79",Minas Gerais,cerrado
 2021,802.73,Minas Gerais,cerrado
-2020,621.70,Minas Gerais,cerrado
+2020,621.7,Minas Gerais,cerrado
 2016,352.09,Minas Gerais,cerrado
-2018,475.90,Minas Gerais,cerrado
+2018,475.9,Minas Gerais,cerrado
 2017,498.74,Minas Gerais,cerrado
 2019,476.11,Minas Gerais,cerrado
 2003,"2,035.97",Bahia,cerrado
@@ -163,8 +163,8 @@ year,area km²,uf,region
 2015,"1,080.75",Bahia,cerrado
 2014,860.22,Bahia,cerrado
 2022,"1,427.89",Bahia,cerrado
-2010,891.00,Bahia,cerrado
-2009,891.00,Bahia,cerrado
+2010,891,Bahia,cerrado
+2009,891,Bahia,cerrado
 2012,"1,281.93",Bahia,cerrado
 2011,"1,281.93",Bahia,cerrado
 2021,923.96,Bahia,cerrado
@@ -187,10 +187,10 @@ year,area km²,uf,region
 2022,"1,188.76",Piauí,cerrado
 2010,"1,128.83",Piauí,cerrado
 2009,"1,128.83",Piauí,cerrado
-2012,902.10,Piauí,cerrado
-2011,902.10,Piauí,cerrado
+2012,902.1,Piauí,cerrado
+2011,902.1,Piauí,cerrado
 2021,583.77,Piauí,cerrado
-2020,879.80,Piauí,cerrado
+2020,879.8,Piauí,cerrado
 2016,965.97,Piauí,cerrado
 2018,743.92,Piauí,cerrado
 2017,566.56,Piauí,cerrado
@@ -217,8 +217,8 @@ year,area km²,uf,region
 2018,258.67,Mato Grosso do Sul,cerrado
 2017,265.02,Mato Grosso do Sul,cerrado
 2019,256.39,Mato Grosso do Sul,cerrado
-2003,116.90,Pará,cerrado
-2004,116.90,Pará,cerrado
+2003,116.9,Pará,cerrado
+2004,116.9,Pará,cerrado
 2001,131.13,Pará,cerrado
 2002,131.13,Pará,cerrado
 2006,115.31,Pará,cerrado
@@ -235,7 +235,7 @@ year,area km²,uf,region
 2011,0.83,Pará,cerrado
 2021,192.18,Pará,cerrado
 2020,312.58,Pará,cerrado
-2016,293.20,Pará,cerrado
+2016,293.2,Pará,cerrado
 2018,198.09,Pará,cerrado
 2017,2.05,Pará,cerrado
 2019,4.26,Pará,cerrado
@@ -253,8 +253,8 @@ year,area km²,uf,region
 2022,3.84,São Paulo,cerrado
 2010,38.91,São Paulo,cerrado
 2009,38.91,São Paulo,cerrado
-2012,10.80,São Paulo,cerrado
-2011,10.80,São Paulo,cerrado
+2012,10.8,São Paulo,cerrado
+2011,10.8,São Paulo,cerrado
 2021,1.28,São Paulo,cerrado
 2020,5.57,São Paulo,cerrado
 2016,2.08,São Paulo,cerrado
@@ -322,7 +322,7 @@ year,area km²,uf,region
 2012,1.74,Paraná,cerrado
 2011,1.74,Paraná,cerrado
 2021,0.07,Paraná,cerrado
-2020,1.70,Paraná,cerrado
+2020,1.7,Paraná,cerrado
 2016,4.34,Paraná,cerrado
 2018,0.76,Paraná,cerrado
 2017,2.55,Paraná,cerrado
@@ -341,8 +341,8 @@ year,area km²,uf,region
 2010,"1,158.63",Bahia,caatinga
 2009,"1,158.63",Bahia,caatinga
 2014,"1,301.03",Bahia,caatinga
-2015,899.70,Bahia,caatinga
-2016,899.70,Bahia,caatinga
+2015,899.7,Bahia,caatinga
+2016,899.7,Bahia,caatinga
 2017,799.28,Bahia,caatinga
 2020,744.92,Bahia,caatinga
 2018,661.68,Bahia,caatinga
@@ -356,7 +356,7 @@ year,area km²,uf,region
 2005,"1,914.30",Ceará,caatinga
 2007,"1,511.24",Ceará,caatinga
 2008,"1,511.24",Ceará,caatinga
-2011,923.90,Ceará,caatinga
+2011,923.9,Ceará,caatinga
 2013,893.18,Ceará,caatinga
 2012,893.18,Ceará,caatinga
 2010,"1,099.27",Ceará,caatinga
@@ -373,8 +373,8 @@ year,area km²,uf,region
 2002,"1,114.58",Pernambuco,caatinga
 2001,"1,114.58",Pernambuco,caatinga
 2004,"1,114.58",Pernambuco,caatinga
-2006,566.10,Pernambuco,caatinga
-2005,566.10,Pernambuco,caatinga
+2006,566.1,Pernambuco,caatinga
+2005,566.1,Pernambuco,caatinga
 2007,764.86,Pernambuco,caatinga
 2008,764.86,Pernambuco,caatinga
 2011,506.58,Pernambuco,caatinga
@@ -382,7 +382,7 @@ year,area km²,uf,region
 2012,395.29,Pernambuco,caatinga
 2010,407.51,Pernambuco,caatinga
 2009,407.51,Pernambuco,caatinga
-2014,328.10,Pernambuco,caatinga
+2014,328.1,Pernambuco,caatinga
 2015,193.08,Pernambuco,caatinga
 2016,193.08,Pernambuco,caatinga
 2017,201.32,Pernambuco,caatinga
@@ -410,18 +410,18 @@ year,area km²,uf,region
 2020,152.54,Paraíba,caatinga
 2018,191.89,Paraíba,caatinga
 2021,133.23,Paraíba,caatinga
-2019,88.10,Paraíba,caatinga
+2019,88.1,Paraíba,caatinga
 2003,771.93,Piauí,caatinga
 2002,771.93,Piauí,caatinga
 2001,771.93,Piauí,caatinga
 2004,771.93,Piauí,caatinga
-2006,552.90,Piauí,caatinga
-2005,552.90,Piauí,caatinga
+2006,552.9,Piauí,caatinga
+2005,552.9,Piauí,caatinga
 2007,536.18,Piauí,caatinga
 2008,536.18,Piauí,caatinga
 2011,209.56,Piauí,caatinga
-2013,345.70,Piauí,caatinga
-2012,345.70,Piauí,caatinga
+2013,345.7,Piauí,caatinga
+2012,345.7,Piauí,caatinga
 2010,450.95,Piauí,caatinga
 2009,450.95,Piauí,caatinga
 2014,352.29,Piauí,caatinga
@@ -430,8 +430,8 @@ year,area km²,uf,region
 2017,169.86,Piauí,caatinga
 2020,201.16,Piauí,caatinga
 2018,226.07,Piauí,caatinga
-2021,162.00,Piauí,caatinga
-2019,188.40,Piauí,caatinga
+2021,162,Piauí,caatinga
+2019,188.4,Piauí,caatinga
 2003,936.99,Rio Grande do Norte,caatinga
 2002,936.99,Rio Grande do Norte,caatinga
 2001,936.99,Rio Grande do Norte,caatinga
@@ -445,14 +445,14 @@ year,area km²,uf,region
 2012,156.73,Rio Grande do Norte,caatinga
 2010,301.94,Rio Grande do Norte,caatinga
 2009,301.94,Rio Grande do Norte,caatinga
-2014,211.50,Rio Grande do Norte,caatinga
+2014,211.5,Rio Grande do Norte,caatinga
 2015,190.96,Rio Grande do Norte,caatinga
 2016,190.96,Rio Grande do Norte,caatinga
 2017,167.89,Rio Grande do Norte,caatinga
-2020,160.60,Rio Grande do Norte,caatinga
+2020,160.6,Rio Grande do Norte,caatinga
 2018,160.03,Rio Grande do Norte,caatinga
 2021,191.34,Rio Grande do Norte,caatinga
-2019,115.60,Rio Grande do Norte,caatinga
+2019,115.6,Rio Grande do Norte,caatinga
 2003,"1,041.68",Minas Gerais,caatinga
 2002,"1,041.68",Minas Gerais,caatinga
 2001,"1,041.68",Minas Gerais,caatinga
@@ -472,16 +472,16 @@ year,area km²,uf,region
 2017,59.13,Minas Gerais,caatinga
 2020,101.51,Minas Gerais,caatinga
 2018,66.77,Minas Gerais,caatinga
-2021,86.30,Minas Gerais,caatinga
+2021,86.3,Minas Gerais,caatinga
 2019,83.86,Minas Gerais,caatinga
 2003,256.74,Sergipe,caatinga
 2002,256.74,Sergipe,caatinga
 2001,256.74,Sergipe,caatinga
 2004,256.74,Sergipe,caatinga
-2006,320.90,Sergipe,caatinga
-2005,320.90,Sergipe,caatinga
-2007,88.70,Sergipe,caatinga
-2008,88.70,Sergipe,caatinga
+2006,320.9,Sergipe,caatinga
+2005,320.9,Sergipe,caatinga
+2007,88.7,Sergipe,caatinga
+2008,88.7,Sergipe,caatinga
 2011,47.64,Sergipe,caatinga
 2013,78.16,Sergipe,caatinga
 2012,78.16,Sergipe,caatinga
@@ -491,7 +491,7 @@ year,area km²,uf,region
 2015,14.39,Sergipe,caatinga
 2016,14.39,Sergipe,caatinga
 2017,79.21,Sergipe,caatinga
-2020,48.70,Sergipe,caatinga
+2020,48.7,Sergipe,caatinga
 2018,38.03,Sergipe,caatinga
 2021,13.25,Sergipe,caatinga
 2019,17.73,Sergipe,caatinga
@@ -499,11 +499,11 @@ year,area km²,uf,region
 2002,246.14,Alagoas,caatinga
 2001,246.14,Alagoas,caatinga
 2004,246.14,Alagoas,caatinga
-2006,223.30,Alagoas,caatinga
-2005,223.30,Alagoas,caatinga
+2006,223.3,Alagoas,caatinga
+2005,223.3,Alagoas,caatinga
 2007,74.87,Alagoas,caatinga
 2008,74.87,Alagoas,caatinga
-2011,29.90,Alagoas,caatinga
+2011,29.9,Alagoas,caatinga
 2013,77.43,Alagoas,caatinga
 2012,77.43,Alagoas,caatinga
 2010,46.08,Alagoas,caatinga
@@ -511,9 +511,9 @@ year,area km²,uf,region
 2014,33.64,Alagoas,caatinga
 2015,21.85,Alagoas,caatinga
 2016,21.85,Alagoas,caatinga
-2017,53.00,Alagoas,caatinga
+2017,53,Alagoas,caatinga
 2020,18.52,Alagoas,caatinga
-2018,30.60,Alagoas,caatinga
+2018,30.6,Alagoas,caatinga
 2021,17.89,Alagoas,caatinga
 2019,21.08,Alagoas,caatinga
 2006,"1.183,51",Minas Gerais,mata_atlantica
